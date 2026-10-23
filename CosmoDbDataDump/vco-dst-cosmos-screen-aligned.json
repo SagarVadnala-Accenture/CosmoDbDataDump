@@ -1,0 +1,2236 @@
+[
+  {
+    "id": "planning-cycle-2026-05",
+    "documentType": "planningCycle",
+    "planningCycleId": "PC-2026-05",
+    "year": 2026,
+    "month": 5,
+    "name": "May, 2026",
+    "startDate": "2026-05-01",
+    "endDate": "2026-05-31",
+    "cycleState": "Past",
+    "bestModel": {
+      "modelId": "ID_2026-06-016",
+      "averageRecoveryPercent": 59,
+      "expectedValueMonthlyUsd": 228000
+    }
+  },
+  {
+    "id": "model-PC-2026-05-011",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-05",
+    "modelId": "ID_2026-06-011",
+    "createdOn": "2026-05-03",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 62,
+    "expectedValueMonthlyUsd": 27000
+  },
+  {
+    "id": "model-PC-2026-05-001",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-05",
+    "modelId": "ID_2026-06-001",
+    "createdOn": "2026-05-04",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 75,
+    "expectedValueMonthlyUsd": 84000
+  },
+  {
+    "id": "model-PC-2026-05-012",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-05",
+    "modelId": "ID_2026-06-012",
+    "createdOn": "2026-05-06",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 74,
+    "expectedValueMonthlyUsd": 204000
+  },
+  {
+    "id": "model-PC-2026-05-002",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-05",
+    "modelId": "ID_2026-06-002",
+    "createdOn": "2026-05-07",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 58,
+    "expectedValueMonthlyUsd": 110000
+  },
+  {
+    "id": "model-PC-2026-05-013",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-05",
+    "modelId": "ID_2026-06-013",
+    "createdOn": "2026-05-09",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 69,
+    "expectedValueMonthlyUsd": 210000
+  },
+  {
+    "id": "model-PC-2026-05-003",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-05",
+    "modelId": "ID_2026-06-003",
+    "createdOn": "2026-05-10",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 2.48,
+    "averageRecoveryPercent": 64,
+    "expectedValueMonthlyUsd": 124000
+  },
+  {
+    "id": "model-PC-2026-05-014",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-05",
+    "modelId": "ID_2026-06-014",
+    "createdOn": "2026-05-12",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 66,
+    "expectedValueMonthlyUsd": 25000
+  },
+  {
+    "id": "model-PC-2026-05-004",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-05",
+    "modelId": "ID_2026-06-004",
+    "createdOn": "2026-05-13",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 76,
+    "expectedValueMonthlyUsd": 99000
+  },
+  {
+    "id": "model-PC-2026-05-015",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-05",
+    "modelId": "ID_2026-06-015",
+    "createdOn": "2026-05-15",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Baseline",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 59,
+    "expectedValueMonthlyUsd": 78000
+  },
+  {
+    "id": "model-PC-2026-05-005",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-05",
+    "modelId": "ID_2026-06-005",
+    "createdOn": "2026-05-16",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Baseline",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 76,
+    "expectedValueMonthlyUsd": 86000
+  },
+  {
+    "id": "model-PC-2026-05-016",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-05",
+    "modelId": "ID_2026-06-016",
+    "createdOn": "2026-05-18",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 59,
+    "expectedValueMonthlyUsd": 228000
+  },
+  {
+    "id": "model-PC-2026-05-006",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-05",
+    "modelId": "ID_2026-06-006",
+    "createdOn": "2026-05-19",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 72,
+    "expectedValueMonthlyUsd": 123000
+  },
+  {
+    "id": "model-PC-2026-05-017",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-05",
+    "modelId": "ID_2026-06-017",
+    "createdOn": "2026-05-21",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 65,
+    "expectedValueMonthlyUsd": 205000
+  },
+  {
+    "id": "model-PC-2026-05-007",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-05",
+    "modelId": "ID_2026-06-007",
+    "createdOn": "2026-05-22",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 67,
+    "expectedValueMonthlyUsd": 172000
+  },
+  {
+    "id": "model-PC-2026-05-018",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-05",
+    "modelId": "ID_2026-06-018",
+    "createdOn": "2026-05-24",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 68,
+    "expectedValueMonthlyUsd": 185000
+  },
+  {
+    "id": "model-PC-2026-05-008",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-05",
+    "modelId": "ID_2026-06-008",
+    "createdOn": "2026-05-25",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 65,
+    "expectedValueMonthlyUsd": 208000
+  },
+  {
+    "id": "model-PC-2026-05-009",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-05",
+    "modelId": "ID_2026-06-009",
+    "createdOn": "2026-05-28",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 69,
+    "expectedValueMonthlyUsd": 167000
+  },
+  {
+    "id": "model-PC-2026-05-010",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-05",
+    "modelId": "ID_2026-06-010",
+    "createdOn": "2026-05-31",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Baseline",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 76,
+    "expectedValueMonthlyUsd": 201000
+  },
+  {
+    "id": "planning-cycle-2026-06",
+    "documentType": "planningCycle",
+    "planningCycleId": "PC-2026-06",
+    "year": 2026,
+    "month": 6,
+    "name": "June, 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-30",
+    "cycleState": "Past",
+    "bestModel": {
+      "modelId": "ID_2026-07-018",
+      "averageRecoveryPercent": 64,
+      "expectedValueMonthlyUsd": 222000
+    }
+  },
+  {
+    "id": "model-PC-2026-06-010",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-010",
+    "createdOn": "2026-06-01",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Baseline",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 59,
+    "expectedValueMonthlyUsd": 114000
+  },
+  {
+    "id": "model-PC-2026-06-020",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-020",
+    "createdOn": "2026-06-01",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Baseline",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 58,
+    "expectedValueMonthlyUsd": 41000
+  },
+  {
+    "id": "model-PC-2026-06-001",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-001",
+    "createdOn": "2026-06-04",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 72,
+    "expectedValueMonthlyUsd": 90000
+  },
+  {
+    "id": "model-PC-2026-06-011",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-011",
+    "createdOn": "2026-06-04",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 61,
+    "expectedValueMonthlyUsd": 127000
+  },
+  {
+    "id": "model-PC-2026-06-021",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-021",
+    "createdOn": "2026-06-04",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 74,
+    "expectedValueMonthlyUsd": 217000
+  },
+  {
+    "id": "model-PC-2026-06-002",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-002",
+    "createdOn": "2026-06-07",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.48,
+    "averageRecoveryPercent": 74,
+    "expectedValueMonthlyUsd": 123000
+  },
+  {
+    "id": "model-PC-2026-06-012",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-012",
+    "createdOn": "2026-06-07",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 71,
+    "expectedValueMonthlyUsd": 187000
+  },
+  {
+    "id": "model-PC-2026-06-022",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-022",
+    "createdOn": "2026-06-07",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 74,
+    "expectedValueMonthlyUsd": 182000
+  },
+  {
+    "id": "model-PC-2026-06-003",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-003",
+    "createdOn": "2026-06-10",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 68,
+    "expectedValueMonthlyUsd": 116000
+  },
+  {
+    "id": "model-PC-2026-06-013",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-013",
+    "createdOn": "2026-06-10",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 76,
+    "expectedValueMonthlyUsd": 104000
+  },
+  {
+    "id": "model-PC-2026-06-023",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-023",
+    "createdOn": "2026-06-10",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 75,
+    "expectedValueMonthlyUsd": 148000
+  },
+  {
+    "id": "model-PC-2026-06-004",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-004",
+    "createdOn": "2026-06-13",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.48,
+    "averageRecoveryPercent": 66,
+    "expectedValueMonthlyUsd": 57000
+  },
+  {
+    "id": "model-PC-2026-06-014",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-014",
+    "createdOn": "2026-06-13",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 2.48,
+    "averageRecoveryPercent": 66,
+    "expectedValueMonthlyUsd": 81000
+  },
+  {
+    "id": "model-PC-2026-06-024",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-024",
+    "createdOn": "2026-06-13",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 71,
+    "expectedValueMonthlyUsd": 79000
+  },
+  {
+    "id": "model-PC-2026-06-005",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-005",
+    "createdOn": "2026-06-16",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Baseline",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 64,
+    "expectedValueMonthlyUsd": 129000
+  },
+  {
+    "id": "model-PC-2026-06-015",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-015",
+    "createdOn": "2026-06-16",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Baseline",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 61,
+    "expectedValueMonthlyUsd": 47000
+  },
+  {
+    "id": "model-PC-2026-06-006",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-006",
+    "createdOn": "2026-06-19",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 67,
+    "expectedValueMonthlyUsd": 50000
+  },
+  {
+    "id": "model-PC-2026-06-016",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-016",
+    "createdOn": "2026-06-19",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 63,
+    "expectedValueMonthlyUsd": 39000
+  },
+  {
+    "id": "model-PC-2026-06-007",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-007",
+    "createdOn": "2026-06-22",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 68,
+    "expectedValueMonthlyUsd": 25000
+  },
+  {
+    "id": "model-PC-2026-06-017",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-017",
+    "createdOn": "2026-06-22",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 60,
+    "expectedValueMonthlyUsd": 91000
+  },
+  {
+    "id": "model-PC-2026-06-008",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-008",
+    "createdOn": "2026-06-25",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 72,
+    "expectedValueMonthlyUsd": 136000
+  },
+  {
+    "id": "model-PC-2026-06-018",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-018",
+    "createdOn": "2026-06-25",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 64,
+    "expectedValueMonthlyUsd": 222000
+  },
+  {
+    "id": "model-PC-2026-06-009",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-009",
+    "createdOn": "2026-06-28",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 63,
+    "expectedValueMonthlyUsd": 39000
+  },
+  {
+    "id": "model-PC-2026-06-019",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-06",
+    "modelId": "ID_2026-07-019",
+    "createdOn": "2026-06-28",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 63,
+    "expectedValueMonthlyUsd": 209000
+  },
+  {
+    "id": "planning-cycle-2026-07",
+    "documentType": "planningCycle",
+    "planningCycleId": "PC-2026-07",
+    "year": 2026,
+    "month": 7,
+    "name": "July, 2026",
+    "startDate": "2026-07-01",
+    "endDate": "2026-07-31",
+    "cycleState": "Past",
+    "bestModel": {
+      "modelId": "ID_2026-08-027",
+      "averageRecoveryPercent": 66,
+      "expectedValueMonthlyUsd": 219000
+    }
+  },
+  {
+    "id": "model-PC-2026-07-031",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-031",
+    "createdOn": "2026-07-01",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 63,
+    "expectedValueMonthlyUsd": 196000
+  },
+  {
+    "id": "model-PC-2026-07-021",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-021",
+    "createdOn": "2026-07-02",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 61,
+    "expectedValueMonthlyUsd": 41000
+  },
+  {
+    "id": "model-PC-2026-07-011",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-011",
+    "createdOn": "2026-07-03",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.48,
+    "averageRecoveryPercent": 62,
+    "expectedValueMonthlyUsd": 54000
+  },
+  {
+    "id": "model-PC-2026-07-001",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-001",
+    "createdOn": "2026-07-04",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 59,
+    "expectedValueMonthlyUsd": 153000
+  },
+  {
+    "id": "model-PC-2026-07-022",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-022",
+    "createdOn": "2026-07-05",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.48,
+    "averageRecoveryPercent": 72,
+    "expectedValueMonthlyUsd": 46000
+  },
+  {
+    "id": "model-PC-2026-07-012",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-012",
+    "createdOn": "2026-07-06",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 69,
+    "expectedValueMonthlyUsd": 211000
+  },
+  {
+    "id": "model-PC-2026-07-002",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-002",
+    "createdOn": "2026-07-07",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 71,
+    "expectedValueMonthlyUsd": 187000
+  },
+  {
+    "id": "model-PC-2026-07-023",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-023",
+    "createdOn": "2026-07-08",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 62,
+    "expectedValueMonthlyUsd": 60000
+  },
+  {
+    "id": "model-PC-2026-07-013",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-013",
+    "createdOn": "2026-07-09",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 73,
+    "expectedValueMonthlyUsd": 217000
+  },
+  {
+    "id": "model-PC-2026-07-003",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-003",
+    "createdOn": "2026-07-10",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 2.48,
+    "averageRecoveryPercent": 70,
+    "expectedValueMonthlyUsd": 78000
+  },
+  {
+    "id": "model-PC-2026-07-024",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-024",
+    "createdOn": "2026-07-11",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.48,
+    "averageRecoveryPercent": 74,
+    "expectedValueMonthlyUsd": 118000
+  },
+  {
+    "id": "model-PC-2026-07-014",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-014",
+    "createdOn": "2026-07-12",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.48,
+    "averageRecoveryPercent": 70,
+    "expectedValueMonthlyUsd": 45000
+  },
+  {
+    "id": "model-PC-2026-07-004",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-004",
+    "createdOn": "2026-07-13",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 59,
+    "expectedValueMonthlyUsd": 140000
+  },
+  {
+    "id": "model-PC-2026-07-025",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-025",
+    "createdOn": "2026-07-14",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Baseline",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 73,
+    "expectedValueMonthlyUsd": 217000
+  },
+  {
+    "id": "model-PC-2026-07-015",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-015",
+    "createdOn": "2026-07-15",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Baseline",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 58,
+    "expectedValueMonthlyUsd": 50000
+  },
+  {
+    "id": "model-PC-2026-07-005",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-005",
+    "createdOn": "2026-07-16",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Baseline",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 64,
+    "expectedValueMonthlyUsd": 215000
+  },
+  {
+    "id": "model-PC-2026-07-026",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-026",
+    "createdOn": "2026-07-17",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 66,
+    "expectedValueMonthlyUsd": 159000
+  },
+  {
+    "id": "model-PC-2026-07-016",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-016",
+    "createdOn": "2026-07-18",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 2.48,
+    "averageRecoveryPercent": 69,
+    "expectedValueMonthlyUsd": 174000
+  },
+  {
+    "id": "model-PC-2026-07-006",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-006",
+    "createdOn": "2026-07-19",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 63,
+    "expectedValueMonthlyUsd": 97000
+  },
+  {
+    "id": "model-PC-2026-07-027",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-027",
+    "createdOn": "2026-07-20",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.48,
+    "averageRecoveryPercent": 66,
+    "expectedValueMonthlyUsd": 219000
+  },
+  {
+    "id": "model-PC-2026-07-017",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-017",
+    "createdOn": "2026-07-21",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 67,
+    "expectedValueMonthlyUsd": 146000
+  },
+  {
+    "id": "model-PC-2026-07-007",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-007",
+    "createdOn": "2026-07-22",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 72,
+    "expectedValueMonthlyUsd": 101000
+  },
+  {
+    "id": "model-PC-2026-07-028",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-028",
+    "createdOn": "2026-07-23",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 2.48,
+    "averageRecoveryPercent": 64,
+    "expectedValueMonthlyUsd": 169000
+  },
+  {
+    "id": "model-PC-2026-07-018",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-018",
+    "createdOn": "2026-07-24",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 66,
+    "expectedValueMonthlyUsd": 76000
+  },
+  {
+    "id": "model-PC-2026-07-008",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-008",
+    "createdOn": "2026-07-25",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 76,
+    "expectedValueMonthlyUsd": 59000
+  },
+  {
+    "id": "model-PC-2026-07-029",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-029",
+    "createdOn": "2026-07-26",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 60,
+    "expectedValueMonthlyUsd": 79000
+  },
+  {
+    "id": "model-PC-2026-07-019",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-019",
+    "createdOn": "2026-07-27",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 71,
+    "expectedValueMonthlyUsd": 26000
+  },
+  {
+    "id": "model-PC-2026-07-009",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-009",
+    "createdOn": "2026-07-28",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 72,
+    "expectedValueMonthlyUsd": 189000
+  },
+  {
+    "id": "model-PC-2026-07-030",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-030",
+    "createdOn": "2026-07-29",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Baseline",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 66,
+    "expectedValueMonthlyUsd": 62000
+  },
+  {
+    "id": "model-PC-2026-07-020",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-020",
+    "createdOn": "2026-07-30",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Baseline",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.48,
+    "averageRecoveryPercent": 61,
+    "expectedValueMonthlyUsd": 133000
+  },
+  {
+    "id": "model-PC-2026-07-010",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-07",
+    "modelId": "ID_2026-08-010",
+    "createdOn": "2026-07-31",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Baseline",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 59,
+    "expectedValueMonthlyUsd": 136000
+  },
+  {
+    "id": "planning-cycle-2026-08",
+    "documentType": "planningCycle",
+    "planningCycleId": "PC-2026-08",
+    "year": 2026,
+    "month": 8,
+    "name": "August, 2026",
+    "startDate": "2026-08-01",
+    "endDate": "2026-08-31",
+    "cycleState": "Past",
+    "bestModel": {
+      "modelId": "ID_2026-09-002",
+      "averageRecoveryPercent": 72,
+      "expectedValueMonthlyUsd": 182000
+    }
+  },
+  {
+    "id": "model-PC-2026-08-001",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-08",
+    "modelId": "ID_2026-09-001",
+    "createdOn": "2026-08-04",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 66,
+    "expectedValueMonthlyUsd": 142000
+  },
+  {
+    "id": "model-PC-2026-08-002",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-08",
+    "modelId": "ID_2026-09-002",
+    "createdOn": "2026-08-07",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 72,
+    "expectedValueMonthlyUsd": 182000
+  },
+  {
+    "id": "model-PC-2026-08-003",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-08",
+    "modelId": "ID_2026-09-003",
+    "createdOn": "2026-08-10",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 67,
+    "expectedValueMonthlyUsd": 119000
+  },
+  {
+    "id": "model-PC-2026-08-004",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-08",
+    "modelId": "ID_2026-09-004",
+    "createdOn": "2026-08-13",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 58,
+    "expectedValueMonthlyUsd": 68000
+  },
+  {
+    "id": "model-PC-2026-08-005",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-08",
+    "modelId": "ID_2026-09-005",
+    "createdOn": "2026-08-16",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Baseline",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.48,
+    "averageRecoveryPercent": 58,
+    "expectedValueMonthlyUsd": 38000
+  },
+  {
+    "id": "model-PC-2026-08-006",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-08",
+    "modelId": "ID_2026-09-006",
+    "createdOn": "2026-08-19",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 59,
+    "expectedValueMonthlyUsd": 108000
+  },
+  {
+    "id": "model-PC-2026-08-007",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-08",
+    "modelId": "ID_2026-09-007",
+    "createdOn": "2026-08-22",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 76,
+    "expectedValueMonthlyUsd": 68000
+  },
+  {
+    "id": "model-PC-2026-08-008",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-08",
+    "modelId": "ID_2026-09-008",
+    "createdOn": "2026-08-25",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 73,
+    "expectedValueMonthlyUsd": 93000
+  },
+  {
+    "id": "model-PC-2026-08-009",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-08",
+    "modelId": "ID_2026-09-009",
+    "createdOn": "2026-08-28",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 74,
+    "expectedValueMonthlyUsd": 151000
+  },
+  {
+    "id": "model-PC-2026-08-010",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-08",
+    "modelId": "ID_2026-09-010",
+    "createdOn": "2026-08-31",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Baseline",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 64,
+    "expectedValueMonthlyUsd": 39000
+  },
+  {
+    "id": "planning-cycle-2026-09",
+    "documentType": "planningCycle",
+    "planningCycleId": "PC-2026-09",
+    "year": 2026,
+    "month": 9,
+    "name": "September, 2026",
+    "startDate": "2026-09-01",
+    "endDate": "2026-09-30",
+    "cycleState": "Current",
+    "bestModel": {
+      "modelId": "ID_2026-10-012",
+      "averageRecoveryPercent": 68,
+      "expectedValueMonthlyUsd": 247000
+    }
+  },
+  {
+    "id": "model-PC-2026-09-007",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-007",
+    "createdOn": "2026-08-15",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 0.28,
+    "averageRecoveryPercent": 61,
+    "expectedValueMonthlyUsd": 131000
+  },
+  {
+    "id": "model-PC-2026-09-032",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-032",
+    "createdOn": "2026-09-01",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Baseline",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 65,
+    "expectedValueMonthlyUsd": 61000
+  },
+  {
+    "id": "model-PC-2026-09-042",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-042",
+    "createdOn": "2026-09-01",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Baseline",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 66,
+    "expectedValueMonthlyUsd": 154000
+  },
+  {
+    "id": "model-PC-2026-09-052",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-052",
+    "createdOn": "2026-09-01",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Baseline",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 61,
+    "expectedValueMonthlyUsd": 100000
+  },
+  {
+    "id": "model-PC-2026-09-023",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-023",
+    "createdOn": "2026-09-04",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 60,
+    "expectedValueMonthlyUsd": 57000
+  },
+  {
+    "id": "model-PC-2026-09-033",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-033",
+    "createdOn": "2026-09-04",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 74,
+    "expectedValueMonthlyUsd": 26000
+  },
+  {
+    "id": "model-PC-2026-09-043",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-043",
+    "createdOn": "2026-09-04",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.48,
+    "averageRecoveryPercent": 68,
+    "expectedValueMonthlyUsd": 190000
+  },
+  {
+    "id": "model-PC-2026-09-053",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-053",
+    "createdOn": "2026-09-04",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 59,
+    "expectedValueMonthlyUsd": 98000
+  },
+  {
+    "id": "model-PC-2026-09-004",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-004",
+    "createdOn": "2026-09-05",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 72,
+    "expectedValueMonthlyUsd": 73000
+  },
+  {
+    "id": "model-PC-2026-09-003",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-003",
+    "createdOn": "2026-09-05",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 0.28,
+    "averageRecoveryPercent": 61,
+    "expectedValueMonthlyUsd": 131000
+  },
+  {
+    "id": "model-PC-2026-09-024",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-024",
+    "createdOn": "2026-09-07",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 68,
+    "expectedValueMonthlyUsd": 80000
+  },
+  {
+    "id": "model-PC-2026-09-034",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-034",
+    "createdOn": "2026-09-07",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 61,
+    "expectedValueMonthlyUsd": 128000
+  },
+  {
+    "id": "model-PC-2026-09-044",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-044",
+    "createdOn": "2026-09-07",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 62,
+    "expectedValueMonthlyUsd": 177000
+  },
+  {
+    "id": "model-PC-2026-09-054",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-054",
+    "createdOn": "2026-09-07",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 73,
+    "expectedValueMonthlyUsd": 111000
+  },
+  {
+    "id": "model-PC-2026-09-005",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-005",
+    "createdOn": "2026-09-09",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 0.28,
+    "averageRecoveryPercent": 61,
+    "expectedValueMonthlyUsd": 25000
+  },
+  {
+    "id": "model-PC-2026-09-006",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-006",
+    "createdOn": "2026-09-10",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 72,
+    "expectedValueMonthlyUsd": 198000
+  },
+  {
+    "id": "model-PC-2026-09-025",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-025",
+    "createdOn": "2026-09-10",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 76,
+    "expectedValueMonthlyUsd": 165000
+  },
+  {
+    "id": "model-PC-2026-09-035",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-035",
+    "createdOn": "2026-09-10",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 65,
+    "expectedValueMonthlyUsd": 69000
+  },
+  {
+    "id": "model-PC-2026-09-045",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-045",
+    "createdOn": "2026-09-10",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 73,
+    "expectedValueMonthlyUsd": 140000
+  },
+  {
+    "id": "model-PC-2026-09-055",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-055",
+    "createdOn": "2026-09-10",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 66,
+    "expectedValueMonthlyUsd": 69000
+  },
+  {
+    "id": "model-PC-2026-09-026",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-026",
+    "createdOn": "2026-09-13",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 65,
+    "expectedValueMonthlyUsd": 61000
+  },
+  {
+    "id": "model-PC-2026-09-036",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-036",
+    "createdOn": "2026-09-13",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.48,
+    "averageRecoveryPercent": 63,
+    "expectedValueMonthlyUsd": 30000
+  },
+  {
+    "id": "model-PC-2026-09-046",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-046",
+    "createdOn": "2026-09-13",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 60,
+    "expectedValueMonthlyUsd": 50000
+  },
+  {
+    "id": "model-PC-2026-09-008",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-008",
+    "createdOn": "2026-09-16",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 0.28,
+    "averageRecoveryPercent": 61,
+    "expectedValueMonthlyUsd": 131000
+  },
+  {
+    "id": "model-PC-2026-09-027",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-027",
+    "createdOn": "2026-09-16",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Baseline",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 73,
+    "expectedValueMonthlyUsd": 49000
+  },
+  {
+    "id": "model-PC-2026-09-037",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-037",
+    "createdOn": "2026-09-16",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Baseline",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 70,
+    "expectedValueMonthlyUsd": 61000
+  },
+  {
+    "id": "model-PC-2026-09-047",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-047",
+    "createdOn": "2026-09-16",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Baseline",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 62,
+    "expectedValueMonthlyUsd": 112000
+  },
+  {
+    "id": "model-PC-2026-09-028",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-028",
+    "createdOn": "2026-09-19",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 59,
+    "expectedValueMonthlyUsd": 96000
+  },
+  {
+    "id": "model-PC-2026-09-038",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-038",
+    "createdOn": "2026-09-19",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.48,
+    "averageRecoveryPercent": 61,
+    "expectedValueMonthlyUsd": 182000
+  },
+  {
+    "id": "model-PC-2026-09-048",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-048",
+    "createdOn": "2026-09-19",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Version",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.18,
+    "averageRecoveryPercent": 74,
+    "expectedValueMonthlyUsd": 39000
+  },
+  {
+    "id": "model-PC-2026-09-010",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-010",
+    "createdOn": "2026-09-22",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 0.28,
+    "averageRecoveryPercent": 61,
+    "expectedValueMonthlyUsd": 25000
+  },
+  {
+    "id": "model-PC-2026-09-009",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-009",
+    "createdOn": "2026-09-22",
+    "status": "Draft",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 72,
+    "expectedValueMonthlyUsd": 73000
+  },
+  {
+    "id": "model-PC-2026-09-029",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-029",
+    "createdOn": "2026-09-22",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 65,
+    "expectedValueMonthlyUsd": 94000
+  },
+  {
+    "id": "model-PC-2026-09-039",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-039",
+    "createdOn": "2026-09-22",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 73,
+    "expectedValueMonthlyUsd": 173000
+  },
+  {
+    "id": "model-PC-2026-09-049",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-049",
+    "createdOn": "2026-09-22",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "In-Month",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 58,
+    "expectedValueMonthlyUsd": 71000
+  },
+  {
+    "id": "model-PC-2026-09-011",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-011",
+    "createdOn": "2026-09-23",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 72,
+    "expectedValueMonthlyUsd": 198000
+  },
+  {
+    "id": "model-PC-2026-09-012",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-012",
+    "createdOn": "2026-09-24",
+    "status": "Executable",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 0.28,
+    "averageRecoveryPercent": 68,
+    "expectedValueMonthlyUsd": 247000
+  },
+  {
+    "id": "model-PC-2026-09-030",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-030",
+    "createdOn": "2026-09-25",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.29,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 65,
+    "expectedValueMonthlyUsd": 32000
+  },
+  {
+    "id": "model-PC-2026-09-040",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-040",
+    "createdOn": "2026-09-25",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.28,
+    "averageRecoveryPercent": 69,
+    "expectedValueMonthlyUsd": 79000
+  },
+  {
+    "id": "model-PC-2026-09-050",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-050",
+    "createdOn": "2026-09-25",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Sensitivity",
+    "ethanePriceUsdPerGal": 0.28,
+    "naturalGasPriceUsdPerMmbtu": 2.48,
+    "averageRecoveryPercent": 67,
+    "expectedValueMonthlyUsd": 60000
+  },
+  {
+    "id": "model-PC-2026-09-031",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-031",
+    "createdOn": "2026-09-28",
+    "status": "Reviewed",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Houston"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.31,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 65,
+    "expectedValueMonthlyUsd": 205000
+  },
+  {
+    "id": "model-PC-2026-09-041",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-041",
+    "createdOn": "2026-09-28",
+    "status": "Executable",
+    "scope": {
+      "type": "Single Plant",
+      "name": "Majorsville"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.48,
+    "averageRecoveryPercent": 60,
+    "expectedValueMonthlyUsd": 126000
+  },
+  {
+    "id": "model-PC-2026-09-051",
+    "documentType": "model",
+    "planningCycleId": "PC-2026-09",
+    "modelId": "ID_2026-10-051",
+    "createdOn": "2026-09-28",
+    "status": "Draft",
+    "scope": {
+      "type": "Regional",
+      "name": "Northeast"
+    },
+    "modelType": "Published",
+    "ethanePriceUsdPerGal": 0.3,
+    "naturalGasPriceUsdPerMmbtu": 2.38,
+    "averageRecoveryPercent": 62,
+    "expectedValueMonthlyUsd": 41000
+  },
+  {
+    "id": "planning-cycle-2026-10",
+    "documentType": "planningCycle",
+    "planningCycleId": "PC-2026-10",
+    "year": 2026,
+    "month": 10,
+    "name": "October, 2026",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-31",
+    "cycleState": "Future",
+    "bestModel": null
+  }
+]
