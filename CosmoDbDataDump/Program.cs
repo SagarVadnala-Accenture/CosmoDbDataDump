@@ -1,7 +1,9 @@
 ﻿using Microsoft.Azure.Cosmos;
 using System.Text;
 using System.Text.Json;
-
+//to setup enviranment variable
+//$env: COSMOS_ENDPOINT = "https://<your-account>.documents.azure.com:443/"
+//$env: COSMOS_KEY = "<your-primary-key>"
 Console.WriteLine("Starting Cosmos DB seed import...");
 
 string? endpoint =
